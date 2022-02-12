@@ -86,4 +86,4 @@ O algoritmo desenvolvido atendeu e executou de forma satisfatória a maior parte
 
 [https://youtu.be/pii3PbyzJ9Q](https://youtu.be/pii3PbyzJ9Q)
 
-[https://youtu.be/pii3PbyzJ9Q](https://youtu.be/pii3PbyzJ9Q)
+[https://youtu.be/U4QiciX7iwE](https://youtu.be/U4QiciX7iwE)
