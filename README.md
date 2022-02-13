@@ -47,7 +47,7 @@ Nessa etapa procurei conhecer o desafio e associar com alguma prática que atend
 
 - [x]  Alerta vermelho
 
-- [ ]  Google Sheets
+- [x]  Google Sheets
 
 Utilizei o DOCKER como plataforma de virtualização do SQLSERVER. 
 
