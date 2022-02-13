@@ -66,8 +66,9 @@ Em seguida o banco de dados em memória e o mapeamento utilizando o Fluent Mappi
 
 ![Capturar](https://user-images.githubusercontent.com/62857753/151733396-862b1140-db0e-4474-a7fb-8edb47410ef9.JPG)
 
-Depois foi construido o contexto de serviços, responsável pelo email e pela lógica de ativação para envio do email.
-![Capturar](https://user-images.githubusercontent.com/62857753/151733498-9df9a104-97c5-4530-b45d-aeeb96568c46.JPG)
+Depois foi construido o contexto de serviços: ativação de status, envio de e-mail e exportar .csv
+![Captura de tela 2022-02-12 233927](https://user-images.githubusercontent.com/62857753/153735955-a0acd284-86b5-4626-b23f-a962f788c347.png)
+
 
 
 Por fim foi feito o contexto de controladores, parametrizando as ações de get-create-update-delete do cliente. 
@@ -78,7 +79,7 @@ Por fim foi feito o contexto de controladores, parametrizando as ações de get-
 
 ---
 
-O algoritmo desenvolvido atendeu e executou de forma satisfatória a maior parte dos itens propostos. Destaco um link para acesso ao vídeo de funcionamento disponível no campo abaixo. Ressalto que a proposição da criação de uma planilha no Google Sheets não foi atendida por falta de conhecimento técnico. 
+O algoritmo desenvolvido atendeu e executou de forma satisfatória a maior parte dos itens propostos. Destaco um link para acesso ao vídeo de funcionamento disponível no campo abaixo.
 
 # Links
 
